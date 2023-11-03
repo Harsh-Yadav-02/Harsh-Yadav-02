@@ -2,9 +2,9 @@
 ![Untitled design](https://github.com/Harsh-Yadav-02/Harsh-Yadav-02/assets/75542099/65b7a80e-4a2f-4a3c-aa3c-7fbb8f72d64d)
 
 
-### Hi there 👋
+### Glad to see you here🫠!!
 
-Glad to see you here🫠!!
+
 I am a Master's student pursuing a degree in Computer Science at the Department of Computer Science, Faculty of Mathematical Sciences, Delhi University. I recently completed my Bachelor of Science from Maharaja Agrasen College, Delhi University in 2023. Beyond my academic pursuits, I am deeply passionate about the fields of Machine Learning (ML) and Deep Learning (DL). My thirst for knowledge extends to advanced mathematical concepts, including Probability & Statistics, Linear Algebra, and Calculus.
 
 <!--
