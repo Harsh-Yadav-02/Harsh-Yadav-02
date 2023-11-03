@@ -2,7 +2,7 @@
 ### Glad to see you here🫠!!
 
 
-I am a Master's student pursuing a degree in Computer Science at the Department of Computer Science, Faculty of Mathematical Sciences, Delhi University. I recently completed my Bachelor of Science from Maharaja Agrasen College, Delhi University in 2023. Beyond my academic pursuits, I am deeply passionate about the fields of Machine Learning (ML) and Deep Learning (DL). My thirst for knowledge extends to advanced mathematical concepts, including Probability & Statistics, Linear Algebra, and Calculus.
+I am a Master's student pursuing a degree in Computer Science at the Department of Computer Science, Faculty of Mathematical Sciences, University of Delhi. I recently completed my Bachelor of Science from Maharaja Agrasen College, University of Delhi in 2023. Beyond my academic pursuits, I am deeply passionate about the fields of Machine Learning (ML) and Deep Learning (DL). My thirst for knowledge extends to advanced mathematical concepts, including Probability & Statistics, Linear Algebra, and Calculus.
 
 <!--
 **Harsh-Yadav-02/Harsh-Yadav-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
