@@ -1,7 +1,3 @@
-![pngtree-the-advancement-of-ai-exploring-the-concept-of-deep-learning-in-image_3781148-1](https://github.com/Harsh-Yadav-02/Harsh-Yadav-02/assets/75542099/e625b25f-f14b-41fc-98ed-97c5e05024ef)
-
-
-
 
 ### Glad to see you here🫠!!
 
