@@ -7,6 +7,13 @@ I am a Master's student pursuing a degree in Computer Science at the Department 
 <h2>Hackathons Won 🏆:</h2>
 <p>
   <a href="#" style="text-decoration: none;">
+    <span style="background-color: #f39c12; color: white; padding: 10px 15px; border-radius: 8px; box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3); font-weight: bold; display: inline-block;">
+      SkyHack 2.0 [United Airlines]
+    </span>
+  </a>
+</p>
+<p>
+  <a href="#" style="text-decoration: none;">
     <span style="background-color: #f39c12; color: white; padding: 8px 12px; border-radius: 5px; font-weight: bold;">
       SkyHack 2.0 [United Airlines]
     </span>
