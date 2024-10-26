@@ -5,13 +5,13 @@
 I am a Master's student pursuing a degree in Computer Science at the Department of Computer Science, Faculty of Mathematical Sciences, University of Delhi. I've completed my Bachelor of Science from Maharaja Agrasen College, University of Delhi in 2023. Beyond my academic pursuits, I am deeply passionate about the fields of Machine Learning (ML) and Deep Learning (DL). My thirst for knowledge extends to advanced mathematical concepts, including Probability & Statistics, Linear Algebra, and Calculus.-->
 
 <h2>Hackathons Won 🏆:</h2>
-<li>
-      SkyHack 2.0 [United Airlines]
-      Datathon [BITS Goa & NielsenIQ]
-      Innovasion 4.0 [JIMS-GGSIPU]
-      Hackathon [MAC-DU]
-      Inventhon [SRCASW-DU]
-</li>
+
+  <li>    SkyHack 2.0 [United Airlines] </li>
+     <li> Datathon [BITS Goa & NielsenIQ] </li>
+     <li> Innovasion 4.0 [JIMS-GGSIPU] </li>
+      <li> Hackathon [MAC-DU] </li>
+      <li> Inventhon [SRCASW-DU] </li>
+
 
 
 
