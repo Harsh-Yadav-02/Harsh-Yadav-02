@@ -6,11 +6,11 @@ I am a Master's student pursuing a degree in Computer Science at the Department 
 
 <h2>Hackathons Won 🏆:</h2>
 
-  <li>  SkyHack 2.0 [United Airlines] -> 1/1600+ registrations </li>
+  <li>  SkyHack 2.0 [United Airlines] -> 1/1600+ registrations; with - [@KunalTayal](https://github.com/KunalTayal) </li>
      <li> Datathon [BITS Goa & NielsenIQ] -> 6/350+ teams </li>
      <li> Innovasion 4.0 [JIMS-GGSIPU] -> 1/100+ teams </li>
-      <li> Hackathon [MAC-DU] 1/80+ teams </li>
-      <li> Inventhon [SRCASW-DU]  2/60+ teams </li>
+      <li> Hackathon [MAC-DU] -> 1/80+ teams </li>
+      <li> Inventhon [SRCASW-DU] -> 2/60+ teams; with - [@KunalTayal](https://github.com/KunalTayal) </li>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake-dark.svg">
