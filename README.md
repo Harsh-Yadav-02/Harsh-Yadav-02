@@ -10,8 +10,8 @@ I am a Master's student pursuing a degree in Computer Science at the Department 
   <li>SkyHack 2.0 [United Airlines] -> 1/1600+ registrations; with <a href="https://github.com/rohankumar141414">@rohankumar141414</a></li>
   <li>Datathon [BITS Goa & NielsenIQ] -> 6/350+ teams; solo participation </li>
   <li>Innovasion 4.0 [JIMS-GGSIPU] -> 1/100+ teams; with <a href="https://github.com/KunalTayal">@KunalTayal</a> and <a href="https://github.com/Mr-man7352">@Mr-man7352</a></li>
-  <li>Inventhon [MAC-DU] -> 1/80+ teams; solo participation </li>
-  <li>Hackathon [SRCASW-DU] -> 2/60+ teams; with <a href="https://github.com/Mr-man7352">@Mr-man7352</a></li>
+  <li>Inventhon [MAC-DU] -> 2/60+ teams; solo participation </li>
+  <li>Hackathon [SRCASW-DU] -> 1/80+ teams; with <a href="https://github.com/Mr-man7352">@Mr-man7352</a></li>
 </ul>
 
 
