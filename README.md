@@ -18,15 +18,6 @@ I am a Master's student pursuing a degree in Computer Science at the Department 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
 </picture>
 
-# Markdown
-
-![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-![](./kaggle-plates/Competitions/white.svg)
-
-<!-- HTML -->
-<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
-<img src="./kaggle-plates/Competitions/white.svg" />
-
 <!--
 **Harsh-Yadav-02/Harsh-Yadav-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
