@@ -12,6 +12,11 @@ I am a Master's student pursuing a degree in Computer Science at the Department 
       <li> Hackathon [MAC-DU] </li>
       <li> Inventhon [SRCASW-DU] </li>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spider-man-tm/spider-man-tm/snake-game/github-contribution-grid-snake.svg">
+</picture>
 
 
 
